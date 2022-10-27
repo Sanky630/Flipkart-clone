@@ -1,0 +1,195 @@
+.foot-ele-title{
+    color: #878787; 
+    padding: 5px;
+    font-size: 12px;
+}
+
+
+
+.foot-about ul li{
+    list-style: none;
+    padding: 5px;
+    
+}
+.foot-about ul li a{
+    
+    text-decoration: none;
+    color: white;
+    
+}
+.foot-about ul li a:hover{
+    
+    text-decoration: underline;
+    color: white;
+    
+}
+.foot-about{
+    font-size: 12px;
+    padding: 40px 60px;
+}
+/* ---------------------------------------------------------------------------------- */
+.foot-help{
+    font-size: 12px;
+    padding: 40px 35px;
+}
+.foot-help ul li a{
+    
+    text-decoration: none;
+    color: white;
+    
+}
+.foot-help ul li a:hover{
+    
+    text-decoration:underline;
+    color: white;
+    
+}
+.foot-help ul li{
+    list-style: none;
+    padding: 5px;
+    
+}
+/* ---------------------------------------------------------------------------------- */
+.foot-policy{
+    font-size: 12px;
+    padding: 40px 35px;
+}
+.foot-policy ul li a{
+    
+    text-decoration: none;
+    color: white;
+    
+}
+.foot-policy ul li a:hover{
+    
+    text-decoration:underline;
+    color: white;
+    
+}
+.foot-policy ul li{
+    list-style: none;
+    padding: 5px;
+    
+}
+/* ---------------------------------------------------------------------------------- */
+.foot-social{
+    font-size: 12px;
+    padding: 40px 35px;
+}
+.foot-social ul li a{
+    
+    text-decoration: none;
+    color: white;
+    
+}
+.foot-social ul li a:hover{
+    
+    text-decoration:underline;
+    color: white;
+    
+}
+.foot-social ul li{
+    list-style: none;
+    padding: 5px;
+    
+}
+.foot-mail-us{
+    font-size: 12px;
+    padding: 40px 35px;
+}
+.mail{
+    color: white;
+}
+.mail p{
+    padding: 3px;
+}
+
+/* .footer-bottom{
+    display: flex;
+    border-top: 0.1px solid grey;
+    background-color: #172337;
+    height: 30px;
+    width: 100%;
+    margin-top: 318px;
+    padding-top: 20px;
+    transform: translateX(-1117px) scaleX(6.56) translateY(2px);
+} */
+
+
+
+.material-symbols-rounded {
+    transform: translateX(-37px) scale(.98);
+    color: #2874f0;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 700,
+  'GRAD' 0,
+  'opsz' 48
+}
+.material-symbols-rounded:hover {
+    cursor: pointer;
+    
+    transform: translateX(-37px) scale(.98);
+    color: #2874f0;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 700,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+
+.material-symbols-outlined {
+    font-size: 16px;
+    color: white;
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+.material-symbols-outlined {
+    cursor: pointer;
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+.login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    height: 30px;
+    width: 115px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+    text-decoration: none;
+    color: #2874f0;
+    margin: 0 30px;
+}
+.sel{
+    text-decoration: none;
+    color: white;
+}
+#sho-cart{
+    font-size: 20px;
+    padding-left: 14px;
+}
+
+
+
+
+
+.body-box1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 115px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.301);
+}
